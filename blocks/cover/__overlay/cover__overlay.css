@@ -1,23 +1,7 @@
-  .cover__overlay{
-    position: absolute;
-    width: 320px;
-    height: 200px;
-  }
-  @media screen and (max-width: 768px) { .cover__overlay{
-    position: absolute;
-    width: 769px;
-    height: 480px;
-  }
-  }
-  @media screen and (max-width: 1024px) { .cover__overlay{
-    position: absolute;
-    width: 1024px;
-    height: 640px;
-  }
-  }
-   @media screen and (max-width: 1280px) { .cover__overlay{
-    position: absolute;
-    width: 1184px;
-    height: 740px;
-  }
-  }
+.cover__overlay{
+  width: 1184px;
+  height: 740px;
+}
+.cover__overlay:hover{
+  opacity: 0.3;
+}
