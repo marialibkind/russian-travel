@@ -1,7 +1,7 @@
 .footer{
 margin: 0 48px 24px;
-width: 1184px;
-height: 18px;
 background-color:#2A2C2F;
+align-items: baseline;
 display: flex;
+justify-content: space-between;
 }

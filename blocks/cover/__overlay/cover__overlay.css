@@ -1,7 +1,7 @@
 .cover__overlay{
-  width: 1184px;
-  height: 740px;
+width: 1184px;
+height: 740px;
 }
-.cover__overlay:hover{
-  opacity: 0.3;
+.cover__overlay:after{
+opacity: 0.3;
 }

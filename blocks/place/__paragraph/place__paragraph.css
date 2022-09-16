@@ -1,11 +1,12 @@
-.place__website_link{
+.place__paragraph{
+color: #FFF;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
 line-height: 163%;
-text-decoration: underline;
-color: #FFF;
-cursor: pointer;
+margin: 0 0 26px 0;
+}
+.place__paragraph:nth-last-child(1){
 margin: 0;
 }

@@ -6,8 +6,7 @@
  line-height: 76px;
  text-align: center;
  color: #FFF;
- text-decoration: none;
+ margin: auto;
+ cursor: pointer;
 }
-/* .cover__title:hover{ */
-/* opacity: 0.3; */
-/* } */ 
+.cover__title:visited,a:hover,a:active,a:focus{text-decoration: none;}

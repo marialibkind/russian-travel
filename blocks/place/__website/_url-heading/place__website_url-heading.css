@@ -7,5 +7,6 @@ line-height: 170%;
 letter-spacing: 2px;
 color: #AAA;
 padding: 0;
-margin-bottom: 12px;
+margin: 0 0 12px 0;
+text-decoration:none;
 }
