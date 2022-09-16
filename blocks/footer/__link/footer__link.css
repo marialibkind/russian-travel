@@ -1,12 +1,17 @@
-.footer__ink{
-position: absolute;
-width: 74px;
-height: 24px;
-left: 16px;
-top: 9689px;
+.footer__link{
+    position: absolute;
+width: 86px;
+height: 18px;
+left: 303px;
+top: 6833px;
+
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
-font-size: 24px;
-line-height: 24px;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+
+
+color: #FFFFFF;
 }
