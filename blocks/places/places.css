@@ -14,3 +14,9 @@ margin: 0 148px 92px;
     margin: 0 24px 90px;
 }
 }
+@media screen and (max-width: 767px)
+{
+.places{
+    margin: 0;
+}
+}

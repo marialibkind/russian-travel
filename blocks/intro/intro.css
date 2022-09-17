@@ -6,12 +6,18 @@ color: #FFF;
 }
 @media screen and (max-width: 1279px)
 {
-.intro{
+  .intro{
     margin: 0 286px 92px 148px;
  }
 }
 @media screen and (max-width: 1023px){
     .intro{
-  margin: 0 24px 88px;
+      margin: 0 24px 88px;
     }
   }
+  @media screen and (max-width: 767px)
+{
+  .intro{
+    margin: 0 16px 64px;
+  }
+}
