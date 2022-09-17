@@ -1,12 +1,11 @@
 .cover__title{
- font-family: 'Inter';
- font-style: normal;
- font-weight: 900;
- font-size: 72px;
- line-height: 76px;
- text-align: center;
- color: #FFF;
- margin: auto;
- cursor: pointer;
+color: #FFF;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 76px;
+text-align: center;
+margin: auto;
+cursor: pointer;
 }
-.cover__title:visited,a:hover,a:active,a:focus{text-decoration: none;}

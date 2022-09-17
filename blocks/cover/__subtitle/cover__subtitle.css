@@ -1,13 +1,10 @@
 .cover__subtitle{
+color: #FFF;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
 line-height: 22px;
 text-align: center;
-color: #FFF;
 cursor: pointer;
 }
-/* .cover__subtitle:hover{
-opacity: 0.3;
-}  */
