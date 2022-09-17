@@ -4,16 +4,20 @@
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
-    line-height: 76px;
-    text-align: center;
-    margin: auto;
+    line-height: 106%;
     cursor: pointer;
     text-decoration: none;
+    width: 560px;
+    height: 152px;
+    z-index: 2;
+    text-align: center;
 }
 @media screen and (max-width:767px)
 {
     .cover__title{
+        width: 288px;
+        height: 70px;
         font-size: 32px;
-        line-height: 35px;
+        line-height: 109%;
  }
 }
