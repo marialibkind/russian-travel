@@ -1,12 +1,14 @@
-/* .cover__overlay{
-position: relative;
-display: flex;
-max-width: 1184px;
-height: 740px;
-text-decoration: none;
+.cover__overlay{
+    display: flex;
+    text-decoration: none;
 }
 .cover__overlay:after{
-background-color: #2A2C2F;
-opacity: 0.3;
-z-index: -1;
-} *
+    background-color: #2A2C2F;
+    opacity: 0.3; 
+    content: '';
+    max-width: 1184px;
+    height: 740px;
+    position: absolute;
+    top: 0;
+    left:0;
+} 

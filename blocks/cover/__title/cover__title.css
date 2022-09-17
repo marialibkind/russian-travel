@@ -1,14 +1,14 @@
 .cover__title{
-color: #FFF;
-font-family: 'Inter';
-font-style: normal;
-font-weight: 900;
-font-size: 72px;
-line-height: 76px;
-text-align: center;
-margin: auto;
-cursor: pointer;
-text-decoration: none;
+    color: #FFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    text-align: center;
+    margin: auto;
+    cursor: pointer;
+    text-decoration: none;
 }
 @media screen and (max-width:767px)
 {
