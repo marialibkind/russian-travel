@@ -11,10 +11,12 @@
     width: 360px;
     height: 66px;
     z-index: 2;
+    margin: 32px 0 0 0;
 }
 @media screen and (max-width:767px)
 {
     .cover__subtitle{
+        margin: 16px 0 0 0;
         width: 288px;
         height: 48px;
         font-size: 14px;
