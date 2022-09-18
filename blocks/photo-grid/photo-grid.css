@@ -21,7 +21,7 @@ grid-template-columns: repeat(2, 1fr);
 grid-template-rows: repeat(6, 1fr);
 gap: 16px;
 margin: 0 48px 88px;
-width: calc(100%-48px);
+width: calc( 100% - 48px );
  }
 }
 @media screen and (max-width: 767px)
@@ -30,6 +30,6 @@ width: calc(100%-48px);
 grid-template-columns: repeat(1, 1fr);
 gap: 12px;
 margin: 0 16px 64px;
-width: calc(100%-32px);
+width: calc( 100% - 32px );
  }
 }
