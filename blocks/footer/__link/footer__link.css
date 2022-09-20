@@ -1,20 +1,24 @@
-.footer__link{
-font-size: 16px;
-line-height: 18px;
-color: #FFF;
-text-decoration: none;
-margin: 0 18px 0 0;
-cursor: pointer;
+.footer__link {
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFF;
+    text-decoration: none;
+    margin: 0 18px 0 0;
+    cursor: pointer;
 }
-.footer__link:hover{
+
+.footer__link:hover {
     opacity: 0.8;
 }
-.footer__link:last-of-type{
+
+.footer__link:last-of-type {
     margin: 0;
 }
-@media screen and (max-width: 767px)
-{
-    .footer__link{
-        margin: 0 0 32px 0;
- }
+
+@media screen and (max-width: 767px) {
+    .footer__link {
+        margin-bottom: 32px;
+        font-size: 24px;
+        line-height: 100%;
+    }
 }

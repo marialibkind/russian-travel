@@ -1,34 +1,31 @@
-.cover{
+.cover {
     color: #FFF;
-    font-family: 'Inter';
     font-style: normal;
     margin: 92px auto;
-    background-image: url(../../images/cover-trains.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    max-width: 1184px;
     position: relative;
-    z-index: 1;
 }
-.cover:hover{
+
+.cover:hover {
     opacity: 0.8;
 }
-@media screen and (max-width: 1279px)
-{
-    .cover{
-        margin: 0 48px 92px;
+
+@media screen and (max-width: 1279px) {
+    .cover {
+        margin-right: 48px;
+        margin-left: 48px;
+    }
 }
+
+@media screen and (max-width: 1023px) {
+    .cover {
+        width: 100%;
+        margin: 90px 88px;
+    }
 }
-@media screen and (max-width: 1023px)
-{
-    .cover{
-        margin: 0 0 88px;
-}
-}
-@media screen and (max-width: 767px)
-{
-    .cover{
-        margin: 0 0 64px;
-}
+
+@media screen and (max-width: 767px) {
+    .cover {
+        margin-top: 66px;
+        margin-bottom: 64px;
+    }
 }

@@ -1,10 +1,9 @@
 .cover__title{
     color: #FFF;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
-    line-height: 106%;
+    line-height: 76px;
     cursor: pointer;
     text-decoration: none;
     width: 560px;
@@ -13,12 +12,15 @@
     text-align: center;
     margin: 0;
 }
+.cover:hover {
+    opacity: 1;
+}
 @media screen and (max-width:767px)
 {
     .cover__title{
         width: 288px;
         height: 70px;
         font-size: 32px;
-        line-height: 109%;
+        line-height: 35px;
  }
 }
