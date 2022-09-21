@@ -5,7 +5,8 @@
     color: #FFF;
     cursor: pointer;
     margin: 0;
-    width:fit-content;
+    text-decoration: none;
+    width: fit-content;
     border-bottom: 2px solid white;
 }
 

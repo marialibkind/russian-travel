@@ -2,23 +2,27 @@
   font-style: normal;
   color: #FFF;
   margin: 92px 442px 92px 148px;
+  max-width: 720px;
 }
 
 @media screen and (max-width: 1279px) {
   .intro {
     margin-right: 286px;
     margin-left: 48px;
+    width: 690px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .intro {
-    margin: 88px 24px;
+    margin: 88px auto;
+    width: 720px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .intro {
     margin-top: 64px;
+    width: 288px;
   }
 }

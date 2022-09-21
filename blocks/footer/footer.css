@@ -2,11 +2,17 @@
     color: #FFF;
     font-style: normal;
     font-weight: 400;
-    margin: 0 48px 24px;
+    margin: 0 156px 24px;
     background-color: #2A2C2F;
     align-items: baseline;
     display: flex;
     justify-content: space-between;
+}
+
+@media screen and (max-width: 1279px) {
+    .footer {
+        margin: 0 48px 24px;
+    }
 }
 
 @media screen and (max-width: 1023px) {
