@@ -9,6 +9,6 @@
 
 @media screen and (max-width: 767px) {
   .intro__list {
-    margin: 0 0 64px;
+    margin-bottom: 64px;
   }
 }

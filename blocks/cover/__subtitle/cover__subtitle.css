@@ -8,7 +8,6 @@
     cursor: pointer;
     text-decoration: none;
     width: 360px;
-    height: 66px;
     z-index: 2;
     margin: 32px 0 0 0;
 }
@@ -21,7 +20,6 @@
     .cover__subtitle {
         margin-top: 16px;
         width: 288px;
-        height: 48px;
         font-size: 14px;
         line-height: 114%;
     }

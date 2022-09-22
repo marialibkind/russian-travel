@@ -11,12 +11,6 @@
 
 @media screen and (max-width: 1279px) {
     .footer {
-        margin: 0 48px 24px;
-    }
-}
-
-@media screen and (max-width: 1023px) {
-    .footer {
         margin-right: 24px;
         margin-left: 24px;
     }

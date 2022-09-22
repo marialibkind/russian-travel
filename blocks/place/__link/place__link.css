@@ -11,6 +11,5 @@
 }
 
 .place__link:hover {
-    border-bottom: 2px solid white;
     opacity: 0.8;
 }
