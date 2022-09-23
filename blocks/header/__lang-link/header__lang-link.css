@@ -1,15 +1,18 @@
 .header__lang-link {
   font-size: 24px;
   line-height: 117%;
-  margin: 0;
   padding: 0;
   cursor: pointer;
   text-decoration: none;
   color: #FFF;
+  margin: 0 18px 0 0;
 }
 
 .header__lang-link:hover {
   opacity: 0.8;
+}
+.header__lang-link:nth-last-child(1){
+  margin: 0;
 }
 
 @media screen and (max-width:767px) {
